@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-------CSS------>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+    <!----FONT---->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-----ICONS----->
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
+    <title>Jaysicx Ecommerce Site</title>
+</head>
+<body>
+    <header id="home" class="header">
+        
+      <nav class="nav">
+        <div class="navigation container">
+            <div class="logo">
+                <h1>Jaysicx</h1>
+            </div>
+
+            <div class="menu">
+                <div class="top-nav">
+                    <div class="logo">
+                        <h1>Jaysicx</h1>
+                    </div>
+                    <div class="close">
+                        <i class="bx bx-x"></i>
+                    </div>
+                </div>
+
+               <ul class="nav-list">
+                   <li class="nav-item">
+                       <a href="#home" class="nav-link">Home</a>
+                   </li>
+                   <li class="nav-item">
+                    <a href="#product" class="nav-link">Shop</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#about" class="nav-link">Group Buys</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Keyboard Category</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#account" class="nav-link">Account</a>
+                </li>
+                    <li class="nav-item">
+                        <a href="cart.html" class="nav-link icon"><i class='bx bx-cart'></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="search.html" class="nav-link icon"><i class='bx bx-search' ></i></a>
+                    </li>
+               </ul> 
+            </div>
+
+            <a href="cart.html" class="cart-icon">
+                <i class='bx bx-cart'></i>
+            </a>
+
+            
+            <a href="search.html" class="search-icon">
+                <i class='bx bx-search' ></i>
+            </a>
+
+
+            <div class="sandwich">
+                <i class="bx bx-menu"></i>
+            </div>
+        </div>
+      </nav>  
+
+      <img src="images/banner.jpg" class="banner-img" alt="" />
+
+      <div class="banner-content">
+        <h2><span class="discount">15% </span> OFF SALE</h2>
+        <h1>
+          <span>Autumn Sale</span>
+          <span>on DIY Kits</span>
+        </h1>
+        <a class="btn" href="#">Shop now</a>
+      </div>
+   
+
+    <!-- Featured -->
+    <section class="section-featured">
+    <div class="title">
+      <h1>Featured Products</h1>
+    </div>
+
+    <div class="product-center container">
+      <div class="product">
+        <div class="product-header">
+          <img src="./images/kbd67lite.jpg" alt="">
+          <ul class="icons">
+            <span><i class="bx bx-heart"></i></span>
+            <span><i class="bx bx-shopping-bag"></i></span>
+            <span><i class="bx bx-search"></i></span>
+          </ul>
+        </div>
+        <div class="product-footer">
+          <a href="#">
+            <h3>KBDfans KBD67 Lite Mechanical Keyboard DIY Kit</h3>
+          </a>
+          <div class="rating">
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+          </div>
+          <h4 class="price">$155</h4>
+        </div>
+      </div>
+      <div class="product">
+        <div class="product-header">
+          <img src="./images/nvlk.jpg" alt="">
+          <ul class="icons">
+            <span><i class="bx bx-heart"></i></span>
+            <span><i class="bx bx-shopping-bag"></i></span>
+            <span><i class="bx bx-search"></i></span>
+          </ul>
+        </div>
+        <div class="product-footer">
+          <a href="#"><h3>Novelkeys Cream Linear Switches</h3></a>
+          <div class="rating">
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bx-star"></i>
+          </div>
+          <h4 class="price">$6.50</h4>
+        </div>
+      </div>
+      <div class="product">
+        <div class="product-header">
+          <img src="./images/gmmk.jpg" alt="">
+          <ul class="icons">
+            <span><i class="bx bx-heart"></i></span>
+            <span><i class="bx bx-shopping-bag"></i></span>
+            <span><i class="bx bx-search"></i></span>
+          </ul>
+        </div>
+        <div class="product-footer">
+          <a href="#"><h3>Glorious GMMK Pro 75% DIY Keyboard Kit</h3></a>
+          <div class="rating">
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bx-star"></i>
+          </div>
+          <h4 class="price">$169.95</h4>
+        </div>
+      </div>
+      <div class="product">
+        <div class="product-header">
+          <img src="./images/chalk.jpg" alt="">
+
+          <ul class="icons">
+            <span><i class="bx bx-heart"></i></span>
+            <span><i class="bx bx-shopping-bag"></i></span>
+            <span><i class="bx bx-search"></i></span>
+          </ul>
+        </div>
+        <div class="product-footer">
+          <a href="#"><h3>SA Chalk Keycap Set Dye-Sub PBT</h3></a>
+          <div class="rating">
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+            <i class="bx bxs-star"></i>
+          </div>
+          <h4 class="price">$75.90</h4>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!---keycaps-->
+<section class="section-featured">
+  <div class="title">
+    <h1>Popular Keycap Sets</h1>
+  </div>
+
+<div class="product-center container">
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/miami.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#">
+        <h3>Maxkey SA Miami Nights Keycap Set Doubleshot ABS</h3>
+      </a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+      </div>
+      <h4 class="price">$99</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/retro.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>PG Retro Keycap Set Dye-Sub PBT</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+      </div>
+      <h4 class="price">$59.90</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/sushi.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>EnjoyPBT Sushi Keycap Set Dye-Sub PBT</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bx-star"></i>
+      </div>
+      <h4 class="price">$89</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/teal.jpg" alt="">
+
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>EnjoyPBT Teal Keycap Set Doubleshot ABS</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bx-star"></i>
+      </div>
+      <h4 class="price">$69</h4>
+    </div>
+  </div>
+</div>
+</section>
+
+<!--Switches-->
+<section class="section-featured">
+  <div class="title">
+    <h1>Popular Switches</h1>
+  </div>
+
+<div class="product-center container">
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/ink.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#">
+        <h3>Gateron Ink Switches V2</h3>
+      </a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+      </div>
+      <h4 class="price">$7.50</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/ktt.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>KTT Sea Salt Lemon Linear Switches</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+      </div>
+      <h4 class="price">$2.70</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/koala.jpg" alt="">
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>Koala Tactile Switches</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bx-star"></i>
+      </div>
+      <h4 class="price">$5.50</h4>
+    </div>
+  </div>
+  <div class="product">
+    <div class="product-header">
+      <img src="./images/zilent.jpg" alt="">
+
+      <ul class="icons">
+        <span><i class="bx bx-heart"></i></span>
+        <span><i class="bx bx-shopping-bag"></i></span>
+        <span><i class="bx bx-search"></i></span>
+      </ul>
+    </div>
+    <div class="product-footer">
+      <a href="#"><h3>Zeal Zilent V2 Silent Tactile Switches</h3></a>
+      <div class="rating">
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+        <i class="bx bxs-star"></i>
+      </div>
+      <h4 class="price">$12.95</h4>
+    </div>
+  </div>
+</div>
+</section>
+
+
+  <!-- Footer -->
+  <footer id="footer" class="section footer">
+    <div class="container">
+      <div class="footer-container">
+        <div class="footer-center">
+          <h3>EXTRAS</h3>
+          <a href="#">Brands</a>
+          <a href="#">Gift Certificates</a>
+          <a href="#">Giveaways</a>
+          <a href="#">Specials</a>
+          <a href="#">Site Map</a>
+        </div>
+        <div class="footer-center">
+          <h3>INFORMATION</h3>
+          <a href="#">About Us</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms & Conditions</a>
+          <a href="#">Contact Us</a>
+          <a href="#">Site Map</a>
+        </div>
+        <div class="footer-center">
+          <h3>MY ACCOUNT</h3>
+          <a href="#">My Account</a>
+          <a href="#">Order History</a>
+          <a href="#">Wish List</a>
+          <a href="#">Newsletter</a>
+          <a href="#">Returns</a>
+        </div>
+        <div class="footer-center">
+          <h3>CONTACT US</h3>
+          <div>
+            <span>
+              <i class="fas fa-map-marker-alt"></i>
+            </span>
+            8888 Keyboard DIY Dr,  Keyboards, USA
+          </div>
+          <div>
+            <span>
+              <i class="far fa-envelope"></i>
+            </span>
+            jaysicxkeebs@gmail.com
+          </div>
+          <div>
+            <span>
+              <i class="fas fa-phone"></i>
+            </span>
+            123-456-7890
+          </div>
+          <div>
+            <span>
+              <i class="far fa-paper-plane"></i>
+            </span>
+            Keyboards, USA
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </footer>
+  <!-- End Footer -->
+
+<script src="app.js"></script>
+</body>
+</html>

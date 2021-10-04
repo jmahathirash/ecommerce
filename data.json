@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "title": "KBDfans KBD67 Lite Mechanical Keyboard DIY Kit ",
+      "price": 155,
+      "description": "The KBD67 Lite Mechanical Keyboard Kit is an entry level DIY kit fit for both newcomers and veterans alike. This kit features everything you would need in order to build a keyboard except for switches and keycaps. ",
+      "category": "keyboards",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/kbdfans-kbd67-lite-mechanical-keyboard-diy-kit-169187.jpg?v=1624482137",
+      "rating": {
+        "rate": 5,
+        "count": 37
+      }
+    },
+    {
+      "id": 2,
+      "title": "Novelkeys Cream Linear Switches",
+      "price": 6.50,
+      "description": "NK Cream Switches are manufactured by Kailh to produce an innovative linear switch. This is Kailh's debut into an MX-style housing and to top it off, the NK Creams feature self-lubricating POM for both housing and stem.",
+      "category": "switches",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/Novelkeys-Kailh-Cream-Switches-Main-907777.jpg?v=1594874716",
+      "rating": {
+        "rate": 4.5,
+        "count": 16
+      }
+    },
+    {
+      "id": 3,
+      "title": "Glorious GMMK Pro 75% DIY Keyboard Kit",
+      "price": 169.95,
+      "description": "Glorious GMMK Pro encapsulates a number of key features at a price point that is hard to refuse. Coming in a 75% layout keyboard with a CNC aluminum case, the GMMK Pro is plate gasket-mounted and it even includes a clickable Rotary Encoder on the top right corner. Not to mention that the PCB is hot-swappable to easily swap out different switches when the occasion arises.",
+      "category": "keyboards",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/glorious-gmmk-pro-75-diy-keyboard-kit-890793.jpg?v=1629413711",
+      "rating": {
+        "rat": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 4,
+      "title": "SA Chalk Keycap Set Dye-Sub PBT",
+      "price": 75.90,
+      "description": "PBT SA Chalk utilizes white alphas with multi-color modifiers to make a simple, yet colorful build come to life.",
+      "category": "keycaps",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/sa-chalk-keycap-set-dye-sub-pbt-202391.jpg?v=1606125445",
+      "rating": {
+        "rate": 5,
+        "count": 5
+      }
+    },
+    {
+      "id": 5,
+      "title": "Maxkey SA Miami Nights Keycap Set Doubleshot ABS",
+      "price": 99,
+      "description": "Maxkey SA Miami Nights features a SA profile keycap set in a black base with vibrant cyan and magenta legends to give off that Miami vaporwave vibe.",
+      "category": "keycaps",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/maxkey-sa-miami-nights-keycap-set-doubleshot-abs-243185.jpg?v=1620891525",
+      "rating": {
+        "rate": 4,
+        "count": 1
+      }
+    },
+    {
+      "id": 6,
+      "title": "PG Retro Keycap Set Dye-Sub PBT",
+      "price": 59.90,
+      "description": "PG Retro Keycap Set is a dye sublimated set featuring the PG/NP profile. This keycap set uses warmer tones of white and green that will remind you of a fresh spring morning.",
+      "category": "keycaps",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 5,
+        "count": 1
+      }
+    },
+    {
+      "id": 7,
+      "title": "EnjoyPBT Sushi Keycap Set Dye-Sub PBT",
+      "price": 89,
+      "description": "EnjoyPBT Sushi Keycap set is dye sublimated to showcase its rich teal blue legends on top of the pink Japanese accents. This sushi inspired set is manufactured with PBT plastic. ",
+      "category": "keycaps",
+      "image": "https://cdn.shopify.com/s/files/1/1473/3902/products/d96084c02460fa43a0e3bd6b45d3fe7e.jpg?v=1576487908",
+      "rating": {
+        "rate": 4.5,
+        "count": 4
+      }
+    },
+    {
+      "id": 8,
+      "title": "EnjoyPBT Teal Keycap Set Doubleshot ABS",
+      "price": 69,
+      "description": "EnjoyPBT Teal Keycap Set is a doubleshot ABS keycap set with a teal tone.",
+      "category": "keycaps",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/EnjoyPBT-Teal-Keycap-Set-ABS-Doubleshot-Main-382838.jpg?v=1596270316",
+      "rating": {
+        "rate": 5,
+        "count": 1
+      }
+    },
+    {
+      "id": 9,
+      "title": "Gateron Ink Switches V2",
+      "price": 7.5,
+      "description": "Gateron Ink Switch V2 features upgraded contact leaves to prevent fallout. Gateron Ink Black has turned this linear switch to a classic. From Ink Black, Yellow, Red, Silent Black or Blue, it encompasses a wide variety of switches for all enthusiasts. ",
+      "category": "switches",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/Gateron-Ink-V2-Black-1-868727.jpg?v=1595704531",
+      "rating": {
+        "rate": 5,
+        "count": 77
+      }
+    },
+    {
+      "id": 10,
+      "title": "KTT Sea Salt Lemon Linear Switches",
+      "price": 2.7,
+      "description": "KTT Sea Salt features a 13mm progressive spring and performs exceptionally smooth. The smoothness is attributed to KTTs factory dry lube technology. One of KTT's popular budget switch, it comes in a teal housing and yellow stem.",
+      "category": "switches",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/ktt-sea-salt-lemon-linear-switches-689066.jpg?v=1625044487",
+      "rating": {
+        "rate": 5,
+        "count": 3
+      }
+    },
+    {
+      "id": 11,
+      "title": "Koala Tactile Switches",
+      "price": 5.50,
+      "description": "Durock Koala Tactile Switches feature similar housing materials to their line of linear switches: polycarbonate top housing, nylon bottom, POM stem (with tactile bump). This switch is intended for users looking for a stepped tactile feel, opposed to the rounded tactility from Holy Pandas.",
+      "category": "switches",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/Koala-Tactile-Switch-Top-805738.jpg?v=1594389362",
+      "rating": {
+        "rate": 4.5,
+        "count": 16
+      }
+    },
+    {
+      "id": 12,
+      "title": "Zeal Zilent V2 Silent Tactile Switches",
+      "price": 12.95,
+      "description": "EnjoyPBT Teal Keycap Set is a doubleshot ABS keycap set with a teal tone.",
+      "category": "switches",
+      "image": "https://cdn.shopify.com/s/files/1/0275/3649/0561/products/Zilent62-1.jpg?v=1601191543",
+      "rating": {
+        "rate": 5,
+        "count": 5
+      }
+    }
+  ]
