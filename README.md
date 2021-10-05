@@ -1,10 +1,10 @@
 # eCommerce Website
 ​
-Hello! Welcome to my first eCommerce website! I made an ecommerce website as a project for a program that I'm in. I based the items around one of my favorite hobbies, making custom keybaords! On the site you will find custom keyboard specific items.
+Hello! Welcome to my first eCommerce website! I made an ecommerce website as a project for a program that I'm in. I based the items around one of my favorite hobbies, making custom keybaords! On the site you will find custom keyboard specific items. Right now it only looks like an ecommerce site. There are future plans to hopefully make it functional
 ​
 ## Getting Started
 ​
-Click the Deployment link to get started! Follow the rules of Rock, Paper, Scissors! Paper > Rock, Rock > Scissors, Scissors > Paper. Follow these rules and you're good to go.
+Click the Deployment link to get started! 
 ​
 ### Mandatory to Pass Requirements
 An E-Commerce website hosted on AWS S3 or EC2 that is viewable on the public internet.
@@ -38,7 +38,7 @@ Your site must meet one of these 2 requirements:
 ​
 ## Deployment
 ​
-
+https://jiaxingecommerce.s3.amazonaws.com/index.html
 ​
 ## Built With
 ​
